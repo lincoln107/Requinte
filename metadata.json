@@ -1,0 +1,6 @@
+{
+  "name": "Requinte Marmitex - Marmitas Gourmet em Itaquaquecetuba",
+  "description": "Restaurante de marmitas gourmet da Chefe Ágatha Urbano em Itaquaquecetuba. Cardápio digital interativo, tamanhos P, M e G, feijoada aos sábados e entrega agendada via WhatsApp.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
